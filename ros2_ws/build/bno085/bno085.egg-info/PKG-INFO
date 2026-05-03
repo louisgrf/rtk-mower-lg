@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: bno085
+Version: 1.0.0
+Summary: ROS2 Node for interface via I2C with a BNO085 Sensor and publish the IMU msg data and the Sensor orientation (roll, pitch, yaw/heading) 
+Home-page: UNKNOWN
+Maintainer: Robert
+Maintainer-email: robertlstevenson01@gmail.com
+License: MIT
+Platform: UNKNOWN
+
+UNKNOWN
+

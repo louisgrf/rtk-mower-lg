@@ -1,0 +1,3 @@
+[console_scripts]
+bno085_publisher = bno085.BNO085_pub:main
+
